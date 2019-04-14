@@ -1,5 +1,5 @@
 # Machine-learning-projects
-- This repo contains all projects that have undertaken as part of my various courses at University of Southern California
+- This repo contains projects undertaken using various ML algorithms on variety of datasets
 1. Bank Note Authentication
 2. Multi-class and Multi-label Classification
 3. Human Activity Recognition
